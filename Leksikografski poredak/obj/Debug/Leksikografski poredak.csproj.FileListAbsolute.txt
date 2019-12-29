@@ -1,0 +1,10 @@
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\bin\Debug\Leksikografski poredak.exe.config
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\bin\Debug\Leksikografski poredak.exe
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\bin\Debug\Leksikografski poredak.pdb
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\obj\Debug\Leksikografski poredak.csprojResolveAssemblyReference.cache
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\obj\Debug\Leksikografski_poredak.Form1.resources
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\obj\Debug\Leksikografski_poredak.Properties.Resources.resources
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\obj\Debug\Leksikografski poredak.csproj.GenerateResource.Cache
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\obj\Debug\Leksikografski poredak.csproj.CoreCompileInputs.cache
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\obj\Debug\Leksikografski poredak.exe
+c:\users\laptop\source\repos\Leksikografski poredak\Leksikografski poredak\obj\Debug\Leksikografski poredak.pdb
