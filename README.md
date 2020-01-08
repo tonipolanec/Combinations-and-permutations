@@ -1,4 +1,4 @@
 # Combinations-and-permutations
 Project for school in C# Windows Forms
 
-![Primjer prrograma](Leksikografski poredak/template.JPG?raw=true "Title")
+<img src="Leksikografski poredak/template.JPG" alt="template of the program"/>
