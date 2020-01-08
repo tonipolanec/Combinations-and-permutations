@@ -22,6 +22,7 @@ namespace Leksikografski_poredak
         private void buttonPermutiraj_Click(object sender, EventArgs e)
         {
             listBoxIspisPermutacija.Items.Clear();
+            listBoxIspisPermutacija.Visible = true;
 
             if (radioButtonBrojevi.Checked)
             {
@@ -86,9 +87,6 @@ namespace Leksikografski_poredak
 
 
             }
-
-
-
         }
 
         public static int[] permuteraj(int[] arr)
@@ -233,7 +231,6 @@ namespace Leksikografski_poredak
             return k;
         }
 
-        //OVO SE JOS MOZDA PREMENI
         private void listBoxIspisPermutacija_SelectedIndexChanged(object sender, EventArgs e)
         {
             int sel = listBoxIspisPermutacija.SelectedIndex + 1;
